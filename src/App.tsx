@@ -21,7 +21,7 @@ function App() {
         logoAlt="Vite Logo"
         navItems={navItems}
       >
-        <Button variant="outline" size="small">Sign In</Button>
+        <Button id='sign-in' variant="outline" size="small">Sign In</Button>
       </Header>
 
       <Hero
@@ -32,7 +32,7 @@ function App() {
           secondary: [reactLogo, viteLogo],
         }}
       >
-        <Button onClick={() => setCount((count) => count + 1)} size="large">
+        <Button id='count' onClick={() => setCount((count) => count + 1)} size="large">
           Count is {count}
         </Button>
       </Hero>
