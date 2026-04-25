@@ -1,0 +1,50 @@
+{
+  "breakpoints": {
+    "375": {
+      "name": "sign-in",
+      "viewportWidth": 373,
+      "width": 373,
+      "height": 23,
+      "bones": [
+        [
+          42.2922,
+          2,
+          15.4155,
+          21,
+          8
+        ]
+      ]
+    },
+    "768": {
+      "name": "sign-in",
+      "viewportWidth": 766,
+      "width": 766,
+      "height": 23,
+      "bones": [
+        [
+          46.2467,
+          2,
+          7.5065,
+          21,
+          8
+        ]
+      ]
+    },
+    "1280": {
+      "name": "sign-in",
+      "viewportWidth": 1124,
+      "width": 1124,
+      "height": 26,
+      "bones": [
+        [
+          47.4422,
+          4,
+          5.1157,
+          21,
+          8
+        ]
+      ]
+    }
+  },
+  "_hash": "0de1b1cb1018f782249a81bb9032c4fe"
+}
